@@ -1,0 +1,22 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "TapRoot",
+        "version": "0",
+        "libraryId": "1QigwD7_0Z1iNIwjm7OcWRSocLa4EMqkVagmO4NeNndkDYQhzwyu3IVbH",
+        "developmentMode": true
+      }
+    ],
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "BigQuery",
+        "version": "v2",
+        "serviceId": "bigquery"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
